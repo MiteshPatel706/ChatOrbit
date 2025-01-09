@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "161828283329",
+    "project_id": "chatorbit-b60ed",
+    "storage_bucket": "chatorbit-b60ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161828283329:android:737bad37e2dfabcab08540",
+        "android_client_info": {
+          "package_name": "com.chatorbit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCoN-oWFdWLPb8pVYCm-on5GaqVqG2Z94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
